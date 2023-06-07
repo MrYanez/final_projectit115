@@ -1,4 +1,4 @@
-<h1>This is our finale project for it115</h1>
+<h1>This is our final project for it115</h1>
 
 <h2>Welcome</h2>
 In this guide you will get an overview of the contribution of the students that are part of this project: Bennett, Celeste and Nahum. The goal of our project is to learn and master basic skill to using GitHub that goes from creating main branches and sub-brunches as well as more related content.
